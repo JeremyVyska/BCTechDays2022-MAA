@@ -1,0 +1,14 @@
+.alpackages/
+.alcache/
+.altemplates/
+.altestrunner/
+.snapshots/
+
+# This is commented out intentionally for distribution in class, since some steps require particular launch settings
+#launch.json 
+
+!app.json
+
+rad.json
+*.app
+*.g.xlf
