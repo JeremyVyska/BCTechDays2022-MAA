@@ -1,0 +1,52 @@
+{
+  "id": "60aefa43-9c04-49e2-9675-620b5d83a1b6",
+  "name": "AmuseYou Booking-Escape",
+  "publisher": "Uncanny Valley Extensions",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "2a6874d5-9be2-4c5e-a0ca-37bf4986ba98",
+      "name": "AmuseYou Shared Base",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "8013b441-0788-41b6-81dc-56b4d937dbd3",
+      "name": "AmuseYou Booking",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "bca17721-af21-4af7-9e60-09618b5cb80a",
+      "name": "AmuseYou Escape Mgmt",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 74420,
+      "to": 74429
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "runtime": "9.0"
+}

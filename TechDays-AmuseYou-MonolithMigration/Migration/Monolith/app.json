@@ -1,0 +1,100 @@
+{
+  "id": "9b6c4031-e6c4-48d9-818e-f6fbcd22274d",
+  "name": "AmuseYou Migrate From Obsolete",
+  "publisher": "Uncanny Valley Extensions",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "dc47bc00-0035-4987-b5a7-291040358a87",
+      "name": "AmuseYou-Obsolete",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "2a6874d5-9be2-4c5e-a0ca-37bf4986ba98",
+      "name": "AmuseYou Shared Base",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "8013b441-0788-41b6-81dc-56b4d937dbd3",
+      "name": "AmuseYou Booking",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "b6ff6db8-9be4-463f-ac30-007235e4201a",
+      "name": "AmuseYou Arena Mgmt",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "46be9a3c-e660-43e6-b9d2-d873097da461",
+      "name": "AmuseYou Bounce Mgmt",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "bca17721-af21-4af7-9e60-09618b5cb80a",
+      "name": "AmuseYou Escape Mgmt",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "a06ab2b4-8ad8-43c9-9d85-551adc8e7977",
+      "name": "AmuseYou Track Mgmt",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "d4fe8406-8512-427d-8dd5-f051cbf33c74",
+      "name": "AmuseYou Booking-Arena",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "73b7be5d-e218-4109-89f0-1ff73f8c2fdb",
+      "name": "AmuseYou Booking-Bounce",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "60aefa43-9c04-49e2-9675-620b5d83a1b6",
+      "name": "AmuseYou Booking-Escape",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "ab62efd6-d2ea-4e47-9a03-0f192f7238ff",
+      "name": "AmuseYou Booking-Track",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 74300,
+      "to": 74399
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "runtime": "9.0"
+}

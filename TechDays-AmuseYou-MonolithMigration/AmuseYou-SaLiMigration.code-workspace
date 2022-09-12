@@ -1,0 +1,58 @@
+{
+	"folders": [
+		{
+			"path": "Common",
+			"name": "Foundation/Common"
+		},
+		{
+			"path": "Foundations/Arena",
+			"name": "Foundation/Arena"
+		},
+		{
+			"path": "Foundations/Bounce",
+			"name": "Foundation/Bounce"
+		},
+		{
+			"path": "Foundations/Escape",
+			"name": "Foundation/Escape"
+		},
+		{
+			"path": "Foundations/Track",
+			"name": "Foundation/Track"
+		},
+		{
+			"path": "Foundations/Booking",
+			"name": "Foundation/Booking"
+		},
+		{
+			"path": "Shared/BK-Arena",
+			"name": "Shared/BK-Arena"
+		},
+		{
+			"path": "Shared/BK-Bounce",
+			"name": "Shared/BK-Bounce"
+		},
+		{
+			"path": "Shared/BK-Escape",
+			"name": "Shared/BK-Escape"
+		},
+		{
+			"path": "Shared/BK-Track",
+			"name": "Shared/BK-Track"
+		},
+		{
+			"path": "Migration/Monolith",
+			"name": "Migration/Monolith"
+		},
+		{
+			"path": "Migration/AmuseYou_APP",
+			"name": "Migration/ObsoleteAmuseYouApp"
+		},
+	],
+	"settings": {
+		"CRS.FileNamePattern": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternExtensions": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.FileNamePatternPageCustomizations": "<ObjectNameShort>.<ObjectTypeShortPascalCase>.al",
+		"CRS.OnSaveAlFileAction": "Rename"
+	}
+}

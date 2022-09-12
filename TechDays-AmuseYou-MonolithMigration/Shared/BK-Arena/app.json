@@ -1,0 +1,52 @@
+{
+  "id": "d4fe8406-8512-427d-8dd5-f051cbf33c74",
+  "name": "AmuseYou Booking-Arena",
+  "publisher": "Uncanny Valley Extensions",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "2a6874d5-9be2-4c5e-a0ca-37bf4986ba98",
+      "name": "AmuseYou Shared Base",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "8013b441-0788-41b6-81dc-56b4d937dbd3",
+      "name": "AmuseYou Booking",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "b6ff6db8-9be4-463f-ac30-007235e4201a",
+      "name": "AmuseYou Arena Mgmt",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 74400,
+      "to": 74409
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "runtime": "9.0"
+}

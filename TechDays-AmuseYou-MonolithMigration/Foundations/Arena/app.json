@@ -1,0 +1,40 @@
+{
+  "id": "b6ff6db8-9be4-463f-ac30-007235e4201a",
+  "name": "AmuseYou Arena Mgmt",
+  "publisher": "Uncanny Valley Extensions",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+    "id": "2a6874d5-9be2-4c5e-a0ca-37bf4986ba98",
+    "name": "AmuseYou Shared Base",
+    "publisher": "Uncanny Valley Extensions",
+    "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 74200,
+      "to": 74209
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "runtime": "9.0"
+}

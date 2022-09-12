@@ -1,0 +1,52 @@
+{
+  "id": "73b7be5d-e218-4109-89f0-1ff73f8c2fdb",
+  "name": "AmuseYou Booking-Bounce",
+  "publisher": "Uncanny Valley Extensions",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "2a6874d5-9be2-4c5e-a0ca-37bf4986ba98",
+      "name": "AmuseYou Shared Base",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "8013b441-0788-41b6-81dc-56b4d937dbd3",
+      "name": "AmuseYou Booking",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "46be9a3c-e660-43e6-b9d2-d873097da461",
+      "name": "AmuseYou Bounce Mgmt",
+      "publisher": "Uncanny Valley Extensions",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 74410,
+      "to": 74419
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "runtime": "9.0"
+}
